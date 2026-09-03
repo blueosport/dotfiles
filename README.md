@@ -6,10 +6,12 @@ made with dotstate - AUR+Rust.
 ##Follow the guide after a fresh Arch base install##
 - *Make sure to install rust and cargo before using dotstate yourself.*
 
-* **
-git clone https://github.com/blueosport/dotfiles
-* **
-cd dotfiles
+
+- git clone https://github.com/blueosport/dotfiles
+
+- cd dotfiles
+
+  * **
 
 - You can now copy and paste any script or file and use it to replace older ones...##
 
