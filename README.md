@@ -1,5 +1,6 @@
 # **Dotfiles-Online**
 
+
 Dotfiles managed by ThatOneManiac
 made with dotstate - AUR+Rust.
 
@@ -34,4 +35,6 @@ cargo install dotstate
 dotstate 
 * **
 ##this is used to connect to your personal github account and manage your dotfiles.##
+
+Licensed under GPL v2.o .
 
