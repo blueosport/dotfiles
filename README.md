@@ -4,7 +4,7 @@
 Dotfiles managed by ThatOneManiac
 made with dotstate - AUR+Rust.
 
-##Follow the guide after a fresh Arch base install##
+*##Follow the guide after a fresh Arch base install##*
 - *Make sure to install rust and cargo before using dotstate yourself.*
 * **
 
