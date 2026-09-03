@@ -7,7 +7,7 @@ made with dotstate - AUR+Rust.
 - *Make sure to install rust and cargo before using dotstate yourself.*
 
 
-git clone https://github.com/blueosport/dotfiles
+git clone https://github.com/blueosport/dotfiles.git
 
 cd dotfiles
 
