@@ -1,4 +1,4 @@
-# dotfiles
+# **Dotfiles-Online**
 
 Dotfiles managed by ThatOneManiac
 made with dotstate - AUR+Rust.
@@ -13,7 +13,7 @@ cd dotfiles
 
   * **
 
-- You can now copy and paste any script or file and use it to replace older ones...##
+- **You can now copy and paste any script or file and use it to replace older ones...##**
 
 
 
