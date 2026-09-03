@@ -36,5 +36,5 @@ dotstate
 * **
 ##this is used to connect to your personal github account and manage your dotfiles.##
 
-Licensed under GPL v2.o .
+Licensed under GPL v2.0 .
 
