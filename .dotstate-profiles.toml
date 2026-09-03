@@ -5,5 +5,23 @@ synced_files = []
 
 [[profiles]]
 name = "Personal"
-synced_files = []
+synced_files = [
+    ".bash_logout",
+    ".bash_profile",
+    ".bashrc",
+    ".config/alacritty",
+    ".config/hypr",
+    ".config/kitty",
+    ".config/mimeapps.list",
+    ".config/niri",
+    ".config/rofi/config.rasi",
+    ".config/systemd/user",
+    ".config/wezterm",
+    ".dotstate-backups/2026-09-03T03-56-05/.bash_profile",
+    ".themes/Flat-Remix-GTK-Blue-Dark",
+    ".themes/Flat-Remix-GTK-Blue-Light",
+    ".zprofile",
+    ".zshrc",
+    "Downloads/arch.png",
+]
 packages = []

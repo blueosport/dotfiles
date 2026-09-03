@@ -1,0 +1,29 @@
+configuration {
+  modes: [ combi ];
+  combi-modes: [ window, drun, run ];
+}
+
+@theme "gruvbox-dark"
+ 
+/* Insert theme modifications after this */
+
+entry {
+    placeholder: "Type here";
+}
+
+
+element {
+  orientation: horizontal;
+  children: [ element-text, element-icon ];
+  spacing: 15px;
+}
+
+element-icon {
+    size: 4.5em;
+}
+
+
+entry, element-text {
+text-color: cyan;
+background-color:black;
+}
