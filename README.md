@@ -5,6 +5,8 @@ Dotfiles managed by ThatOneManiac
 made with dotstate - AUR+Rust.
 
 *##Follow the guide after a fresh Arch base install##*
+
+[****-->ARCH LINUX<--****](https://archlinux.org/download/)
 - *Make sure to install rust and cargo before using dotstate yourself.*
 * **
 
