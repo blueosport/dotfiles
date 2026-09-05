@@ -18,10 +18,13 @@ synced_files = [
     ".config/systemd/user",
     ".config/wezterm",
     ".dotstate-backups/2026-09-03T03-56-05/.bash_profile",
+    ".icons",
     ".themes/Flat-Remix-GTK-Blue-Dark",
     ".themes/Flat-Remix-GTK-Blue-Light",
     ".zprofile",
     ".zshrc",
     "Downloads/arch.png",
+    "Pictures/wallpapers",
+    "cachyos-repo",
 ]
 packages = []
