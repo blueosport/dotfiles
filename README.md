@@ -12,7 +12,7 @@ made with dotstate - AUR+Rust.
 - *Also , please give [neovim](https://neovim.io/) a shot , its Perfect.*
 * **
 
-git clone https://github.com/blueosport/dotfiles.git
+git clone --recursive https://github.com/blueosport/dotfiles.git
 
 cd dotfiles
 
