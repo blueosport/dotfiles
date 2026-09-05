@@ -8,6 +8,8 @@ made with dotstate - AUR+Rust.
 
 [****-->ARCH LINUX<--****](https://archlinux.org/download/)
 - *Make sure to install rust and cargo before using dotstate yourself.*
+
+- *Also , please give [neovim](https://neovim.io/) a shot , its Perfect.*
 * **
 
 git clone https://github.com/blueosport/dotfiles.git
