@@ -11,3 +11,5 @@ PS1='[\u@\h \W]\$ '
 
 # Run fastfetch on shell initialization
 fastfetch
+export DOTNET_ROOT="$HOME/.dotnet"
+export PATH="$HOME/.dotnet:$PATH"

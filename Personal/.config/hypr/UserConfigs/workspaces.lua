@@ -15,3 +15,4 @@
 --     monitor = "eDP-1",
 --     layout = "dwindle",
 -- })
+hl.workspace_rule({ workspace = "1", monitor = "WAYLAND-1", layout = "dwindle" })
