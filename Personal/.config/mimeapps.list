@@ -9,3 +9,4 @@ x-scheme-handler/unknown=brave-browser.desktop
 
 [Added Associations]
 application/msword=brave-browser.desktop;
+application/vnd.android.package-archive=waydroid.app.install.desktop;
